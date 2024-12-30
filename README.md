@@ -1,4 +1,4 @@
-# Lucy-number-to-words-conversion: Number to Words Converter
+# number-to-words-conversion: Number to Words Converter
 
 ## Overview
 Live at: https://duong-28.github.io/Lucy-number-to-words-conversion/ 
